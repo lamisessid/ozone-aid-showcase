@@ -202,4 +202,4 @@ oil wear; copilot leads correct in 41 % of cases; the platform is not yet in pro
 
 ---
 
-**Lamis Essid** · Big Data & BI Engineer · [LinkedIn](https://www.linkedin.com/in/lamys-essid) · [GitHub](https://github.com/lamisessid)
+**Lamis Essid** · Big Data & BI Engineer · [Portfolio](https://lamisessid.pages.dev) · [LinkedIn](https://www.linkedin.com/in/lamys-essid) · [GitHub](https://github.com/lamisessid)
